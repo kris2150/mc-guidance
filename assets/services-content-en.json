@@ -26,7 +26,7 @@
     "summaryTitle": "The timeline in simple words",
     "steps": [
       {
-        "title": "Reflection / general information",
+        "title": "Reflection \/ general information",
         "description": "The person begins to gather information. They want to understand whether Canada is an option, what claiming asylum means, what the risks are, which documents to prepare, and when they should speak to a lawyer or an authorized representative.",
         "questions": [
           "What should my first reflex be?",
@@ -50,7 +50,7 @@
         "faq": []
       },
       {
-        "title": "Travelling / arrival approaching",
+        "title": "Travelling \/ arrival approaching",
         "description": "The person is already on the move or close to arriving in Canada. At this step, the most important thing is to understand their overall situation: where they are, whether they are travelling alone or with family, whether they have documents, whether they are safe, and whether they need urgent help.",
         "questions": [
           "Are you still on your way, already in Canada, or close to an official port of entry?"
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "title": "Arrival in Canada / port of entry",
+        "title": "Arrival in Canada \/ port of entry",
         "description": "The person arrives in Canada through an airport, a land border crossing, or a seaport. They may be in contact with border officers. At this step, great caution is needed: guidance must remain general, and legal questions must be directed to a lawyer or an authorized representative.",
         "questions": [
           "Have you already spoken with a Canadian immigration or border officer?"
@@ -137,7 +137,7 @@
         "faq": []
       },
       {
-        "title": "After the decision / settling in",
+        "title": "After the decision \/ settling in",
         "description": "If the claim is accepted, the person needs to understand the next steps: protected person status, permanent residence, work, school, health care, housing, social assistance, integration, and community support.",
         "questions": [
           "Do you need help with settling in, documents, work, school, health care or housing?"

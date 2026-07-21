@@ -26,7 +26,7 @@
     "summaryTitle": "Rezime senp liy tan an",
     "steps": [
       {
-        "title": "Refleksyon / enfòmasyon jeneral",
+        "title": "Refleksyon \/ enfòmasyon jeneral",
         "description": "Moun nan kòmanse chèche enfòmasyon. Li vle konprann si Kanada se yon opsyon, kisa mande azil vle di, ki risk ki genyen, ki dokiman pou li prepare, ak ki lè li ta dwe pale ak yon avoka oswa yon reprezantan otorize.",
         "questions": [
           "Kisa premye refleks mwen ta dwe ye?",
@@ -50,7 +50,7 @@
         "faq": []
       },
       {
-        "title": "Sitiyasyon vwayaj / rive prèske rive",
+        "title": "Sitiyasyon vwayaj \/ rive prèske rive",
         "description": "Moun nan deja sou wout oswa li prèske rive nan Kanada. Nan etap sa a, sa ki pi enpòtan se konprann sitiyasyon jeneral li: ki kote li ye, si l ap vwayaje pou kont li oswa ak fanmi li, si li gen dokiman, si li an sekirite, e si li bezwen èd ijan.",
         "questions": [
           "Èske ou toujou sou wout, ou deja rive nan Kanada, oswa ou prè yon pwen antre ofisyèl?"
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "title": "Rive nan Kanada / pwen antre",
+        "title": "Rive nan Kanada \/ pwen antre",
         "description": "Moun nan rive nan Kanada nan yon ayewopò, yon pòs fwontyè sou tè, oswa yon pò maritim. Li ka an kontak ak ajan fwontyè yo. Nan etap sa a, fòk ou rete trè pridan: akonpayman an dwe rete jeneral, e kesyon legal yo dwe ale jwenn yon avoka oswa yon reprezantan otorize.",
         "questions": [
           "Èske ou deja pale ak yon ajan imigrasyon oswa yon ajan fwontyè kanadyen?"
@@ -99,9 +99,9 @@
       },
       {
         "title": "Verifikasyon admisibilite",
-        "description": "IRCC oswa ASFC egzamine si demann lan ka voye bay Komisyon Imigrasyon ak Estati Refijye Kanada. Si demann lan admisib, yo voye li bay CISR/IRB pou rès pwosesis la.",
+        "description": "IRCC oswa ASFC egzamine si demann lan ka voye bay Komisyon Imigrasyon ak Estati Refijye Kanada. Si demann lan admisib, yo voye li bay CISR\/IRB pou rès pwosesis la.",
         "questions": [
-          "Èske yo di ou si demann ou an admisib, oswa si yo voye li bay CISR/IRB?"
+          "Èske yo di ou si demann ou an admisib, oswa si yo voye li bay CISR\/IRB?"
         ],
         "tips": [],
         "faq": []
@@ -118,7 +118,7 @@
       },
       {
         "title": "Preparasyon pou odyans lan",
-        "description": "Moun nan ap tann oswa l ap prepare odyans li devan CISR/IRB. Li dwe konprann objektif odyans lan, revize istwa li, verifye enkoyerans ki ta ka genyen, prepare prèv li yo, epi travay ak yon avoka oswa yon reprezantan otorize si sa posib.",
+        "description": "Moun nan ap tann oswa l ap prepare odyans li devan CISR\/IRB. Li dwe konprann objektif odyans lan, revize istwa li, verifye enkoyerans ki ta ka genyen, prepare prèv li yo, epi travay ak yon avoka oswa yon reprezantan otorize si sa posib.",
         "questions": [
           "Èske ou deja resevwa yon dat odyans, oswa ou toujou ap tann?",
           "Kijan w ap prepare ou pou odyans lan anvan ou rankontre avoka ou?"
@@ -137,7 +137,7 @@
         "faq": []
       },
       {
-        "title": "Apre desizyon an / enstalasyon",
+        "title": "Apre desizyon an \/ enstalasyon",
         "description": "Si demann lan aksepte, moun nan dwe konprann pwochen etap yo: estati moun pwoteje, rezidans pèmanan, travay, lekòl, sante, lojman, èd sosyal, entegrasyon, ak sipò kominotè.",
         "questions": [
           "Èske ou bezwen èd ak enstalasyon, dokiman, travay, lekòl, sante oswa lojman?"

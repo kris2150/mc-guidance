@@ -26,7 +26,7 @@
     "summaryTitle": "Résumé simple de la ligne du temps",
     "steps": [
       {
-        "title": "Réflexion / information générale",
+        "title": "Réflexion \/ information générale",
         "description": "La personne commence à se renseigner. Elle veut comprendre si le Canada est une option, ce que signifie demander l'asile, quels sont les risques, quels documents préparer, et à quel moment elle devrait parler à un avocat ou à un représentant autorisé.",
         "questions": [
           "Quel sera mon premier réflexe ?",
@@ -50,7 +50,7 @@
         "faq": []
       },
       {
-        "title": "Situation de voyage / arrivée proche",
+        "title": "Situation de voyage \/ arrivée proche",
         "description": "La personne est déjà en déplacement ou proche de l'arrivée au Canada. À cette étape, il faut surtout comprendre sa situation générale : où elle se trouve, si elle voyage seule ou avec sa famille, si elle a des documents, si elle est en sécurité, et si elle a besoin d'aide urgente.",
         "questions": [
           "Êtes-vous encore en route, déjà arrivé au Canada, ou proche d'un point d'entrée officiel ?"
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "title": "Arrivée au Canada / point d'entrée",
+        "title": "Arrivée au Canada \/ point d'entrée",
         "description": "La personne arrive au Canada par un aéroport, un poste frontalier terrestre ou un port maritime. Elle peut être en contact avec les agents frontaliers. À cette étape, il faut rester très prudent : l'accompagnement doit être général, et les questions légales doivent être dirigées vers un avocat ou un représentant autorisé.",
         "questions": [
           "Avez-vous déjà parlé à un agent d'immigration ou de frontière canadien ?"
@@ -99,9 +99,9 @@
       },
       {
         "title": "Vérification d'admissibilité",
-        "description": "IRCC ou l'ASFC examine si la demande peut être envoyée à la Commission de l'immigration et du statut de réfugié du Canada. Si la demande est admissible, elle est transmise à la CISR/IRB pour la suite du processus.",
+        "description": "IRCC ou l'ASFC examine si la demande peut être envoyée à la Commission de l'immigration et du statut de réfugié du Canada. Si la demande est admissible, elle est transmise à la CISR\/IRB pour la suite du processus.",
         "questions": [
-          "Vous a-t-on dit si votre demande est admissible ou si elle a été transmise à la CISR/IRB ?"
+          "Vous a-t-on dit si votre demande est admissible ou si elle a été transmise à la CISR\/IRB ?"
         ],
         "tips": [],
         "faq": []
@@ -118,7 +118,7 @@
       },
       {
         "title": "Préparation à l'audience",
-        "description": "La personne attend ou prépare son audience devant la CISR/IRB. Elle doit comprendre le but de l'audience, revoir son histoire, vérifier les incohérences possibles, préparer ses preuves, et travailler avec un avocat ou un représentant autorisé si possible.",
+        "description": "La personne attend ou prépare son audience devant la CISR\/IRB. Elle doit comprendre le but de l'audience, revoir son histoire, vérifier les incohérences possibles, préparer ses preuves, et travailler avec un avocat ou un représentant autorisé si possible.",
         "questions": [
           "Avez-vous déjà reçu une date d'audience ou êtes-vous encore en attente ?",
           "Comment vous préparerez-vous pour l'audience avant de rencontrer votre avocat ?"
@@ -137,7 +137,7 @@
         "faq": []
       },
       {
-        "title": "Après la décision / installation",
+        "title": "Après la décision \/ installation",
         "description": "Si la demande est acceptée, la personne doit comprendre les prochaines étapes : statut de personne protégée, résidence permanente, travail, école, santé, logement, aide sociale, intégration, et soutien communautaire.",
         "questions": [
           "Avez-vous besoin d'aide avec l'installation, les documents, le travail, l'école, la santé ou le logement ?"
