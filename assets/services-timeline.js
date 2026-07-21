@@ -52,7 +52,7 @@
     /* Hero */
     var hero = el("header", "svc-tl__hero");
     hero.appendChild(switcher);
-    hero.appendChild(text("p", "svc-tl__eyebrow", p.eyebrow));
+    // hero.appendChild(text("p", "svc-tl__eyebrow", p.eyebrow));
     hero.appendChild(text("h1", "svc-tl__title", p.title));
     hero.appendChild(text("p", "svc-tl__intro", p.intro));
 
@@ -60,7 +60,7 @@
     cq.appendChild(text("span", "svc-tl__cq-label", p.centralQuestionLabel));
     cq.appendChild(text("p", "svc-tl__cq-q", p.centralQuestion));
     cq.appendChild(text("p", "svc-tl__cq-note", p.centralQuestionNote));
-    hero.appendChild(cq);
+    // hero.appendChild(cq);
     root.appendChild(hero);
 
     /* Layout: sidebar + steps */
@@ -105,15 +105,15 @@
         s.questions.forEach(function (q) {
           ul.appendChild(text("li", null, q));
         });
-        qb.appendChild(ul);
-        card.appendChild(qb);
+        // qb.appendChild(ul);
+        // card.appendChild(qb);
       }
 
       (s.tips || []).forEach(function (t) {
         var tb = el("div", "svc-tl__block svc-tl__block--tip");
         tb.appendChild(text("span", "svc-tl__block-label", p.tipLabel));
         tb.appendChild(text("p", null, t));
-        card.appendChild(tb);
+        // card.appendChild(tb);
       });
 
       (s.faq || []).forEach(function (f) {
@@ -121,7 +121,7 @@
         fb.appendChild(text("span", "svc-tl__block-label", p.faqLabel));
         fb.appendChild(text("p", "svc-tl__faq-q", f.q));
         fb.appendChild(text("p", "svc-tl__faq-a", f.a));
-        card.appendChild(fb);
+        // card.appendChild(fb);
       });
 
       content.appendChild(card);
