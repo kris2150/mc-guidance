@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "main": {
+      "type": "services-timeline",
+      "settings": {
+        "default_language": "fr"
+      }
+    }
+  },
+  "order": ["main"]
+}

@@ -1,0 +1,46 @@
+{{ 'services-timeline.css' | asset_url | stylesheet_tag }}
+
+<div
+  class="svc-tl"
+  id="svc-tl-{{ section.id }}"
+  data-default-lang="{{ section.settings.default_language }}"
+  data-src-fr="{{ 'services-content-fr.json' | asset_url }}"
+  data-src-en="{{ 'services-content-en.json' | asset_url }}"
+  data-src-ht="{{ 'services-content-ht.json' | asset_url }}"
+>
+  <noscript>
+    <p style="padding: 2rem; text-align: center;">
+      Cette page nécessite JavaScript. / This page requires JavaScript. / Paj sa a bezwen JavaScript.
+    </p>
+  </noscript>
+</div>
+
+<script src="{{ 'services-timeline.js' | asset_url }}" defer></script>
+
+{% schema %}
+{
+  "name": "Services timeline",
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "Content is edited in the JSON files: assets/services-content-fr.json, -en.json and -ht.json. The language shown follows the ?lang= URL parameter (fr, en or ht)."
+    },
+    {
+      "type": "select",
+      "id": "default_language",
+      "label": "Default language",
+      "options": [
+        { "value": "fr", "label": "Français" },
+        { "value": "en", "label": "English" },
+        { "value": "ht", "label": "Kreyòl" }
+      ],
+      "default": "fr"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Services timeline"
+    }
+  ]
+}
+{% endschema %}
