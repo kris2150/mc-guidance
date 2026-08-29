@@ -154,6 +154,24 @@
     scrollSpy();
   }
 
+  /* Center the active link inside its own scroll container only.
+     scrollIntoView would also scroll the document, which on mobile drags the
+     page back up to the chip strip and makes it impossible to scroll down. */
+  function revealInContainer(link) {
+    var strip = link.closest(".svc-tl__steplist");
+    var sticky = link.closest(".svc-tl__sticky");
+    var l = link.getBoundingClientRect();
+
+    if (strip && strip.scrollWidth > strip.clientWidth + 1) {
+      var s = strip.getBoundingClientRect();
+      strip.scrollLeft += l.left - s.left - (s.width - l.width) / 2;
+    }
+    if (sticky && sticky.scrollHeight > sticky.clientHeight + 1) {
+      var k = sticky.getBoundingClientRect();
+      sticky.scrollTop += l.top - k.top - (k.height - l.height) / 2;
+    }
+  }
+
   function scrollSpy() {
     var links = root.querySelectorAll(".svc-tl__steplink");
     var cards = root.querySelectorAll(".svc-tl__card");
@@ -174,7 +192,7 @@
           var link = byId[entry.target.id];
           if (link) {
             link.classList.add("is-current");
-            link.scrollIntoView({ block: "nearest", inline: "nearest" });
+            revealInContainer(link);
           }
         });
       },
