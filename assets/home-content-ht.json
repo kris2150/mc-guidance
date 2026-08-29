@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "code": "ht",
+    "langName": "Kreyòl",
+    "siteName": "MC Guidance",
+    "pageTitle": "Enfòmasyon klè pou chak etap nan chemen an | MC Guidance",
+    "pageDescription": "Konprann pwosesis demann azil nan Kanada, prepare w pou etap enpòtan yo, epi jwenn resous ki ka ede w."
+  },
+  "topbar": "Se enfòmasyon jeneral sèlman — sit sa a pa ranplase konsèy yon avoka.",
+  "nav": {
+    "home": "Akèy",
+    "journey": "Chemen ou",
+    "services": "Sèvis",
+    "resources": "Resous",
+    "about": "Konsènan nou",
+    "contact": "Kontak"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Enfòmasyon • Preparasyon • Resous",
+      "title": "Enfòmasyon klè pou chak etap nan chemen an.",
+      "intro": "Konprann pwosesis demann azil nan Kanada, prepare w pou etap enpòtan yo, epi jwenn resous ki ka ede w.",
+      "ctaPrimary": "Eksplore sèvis nou yo",
+      "ctaSecondary": "Konprann chemen an",
+      "trust": "Enfòmasyon ki byen òganize, ak respè, epi fasil pou konprann.",
+      "imageLabel": "IMAJ PRENSIPAL",
+      "imageNote": "Yon pòtrè moun — akeyan e ki gen diyite"
+    },
+    "intro": {
+      "title": "Pwosesis la ka parèt difisil pou konprann.",
+      "body": "Yon demann azil ka gen dokiman ou pa konnen, dat limit enpòtan, ak plizyè òganizasyon. Nou rasanble enfòmasyon an etap pa etap pou ede w konprann sa ki ka rive epi pi byen prepare pwochen etap la."
+    },
+    "journey": {
+      "eyebrow": "Chemen an an rezime",
+      "title": "Avanse yon etap alafwa",
+      "intro": "Chak chemen diferan, men gen kèk gwo etap ki ka ede w wè kote ou ye epi konprann sa k ap vini apre.",
+      "steps": [
+        {
+          "title": "Konprann opsyon ou yo",
+          "description": "Dekouvri sa yon demann vle di ak kote pou jwenn enfòmasyon ou ka fè konfyans."
+        },
+        {
+          "title": "Prepare enfòmasyon ou yo",
+          "description": "Òganize dokiman ou yo, dat enpòtan ou yo ak istwa ou."
+        },
+        {
+          "title": "Kòmanse demann lan",
+          "description": "Konprann dokiman yo, enstriksyon yo ak òganizasyon ki konsène yo."
+        },
+        {
+          "title": "Prepare odyans lan",
+          "description": "Aprann sou prèv yo, reprezantasyon an ak jan odyans lan dewoule."
+        },
+        {
+          "title": "Apre desizyon an",
+          "description": "Eksplore pwochen demach yo ak resous pou enstalasyon w."
+        }
+      ],
+      "cta": "Wè tout chemen an"
+    },
+    "services": {
+      "eyebrow": "Kijan nou ka ede w",
+      "title": "Sèvis ki òganize otou bezwen ou",
+      "intro": "Ale dirèkteman nan enfòmasyon ak resous ki pi itil pandan chemen demann azil la.",
+      "cards": [
+        {
+          "icon": "◇",
+          "title": "Konprann pwosesis la",
+          "description": "Yon apèsi klè sou etap yo, òganizasyon ki enplike yo ak tèm ki enpòtan yo.",
+          "cta": "Aprann plis"
+        },
+        {
+          "icon": "▤",
+          "title": "Prepare w",
+          "description": "Konsèy jeneral pou òganize dokiman ou yo, enfòmasyon ou yo ak dat enpòtan ou yo.",
+          "cta": "Aprann plis"
+        },
+        {
+          "icon": "⌂",
+          "title": "Jwenn resous",
+          "description": "Lyen pou èd legal otorize, òganis piblik ak sipò kominotè.",
+          "cta": "Aprann plis"
+        }
+      ],
+      "cta": "Eksplore tout sèvis yo"
+    },
+    "story": {
+      "eyebrow": "Yon apwòch imen",
+      "title": "Kreye an panse ak eksperyans moun yo viv",
+      "body": "Platfòm sa a enspire pa difikilte moun rankontre lè y ap eseye konprann yon pwosesis ki nouvo e konplike. Objektif nou se rann enfòmasyon an pi klè, pi respektye epi pi fasil pou navige.",
+      "qualities": ["Langaj senp", "Etap pa etap", "Resous verifye"],
+      "cta": "Dekouvri istwa nou",
+      "imageLabel": "IMAJ IMEN",
+      "imageNote": "Fondatè, ekip oswa yon moman akonpayman"
+    },
+    "closing": {
+      "title": "Ou pa bezwen konprann tout bagay jodi a.",
+      "body": "Kòmanse pa eksplore enfòmasyon ki koresponn pi byen ak sitiyasyon w kounye a.",
+      "cta": "Eksplore sèvis nou yo"
+    }
+  },
+  "footer": {
+    "tagline": "Enfòmasyon jeneral e aksesib pou ede w pi byen konprann chemen demann azil la nan Kanada.",
+    "columns": [
+      {
+        "title": "Dekouvri",
+        "links": ["Chemen ou", "Sèvis nou yo", "Kesyon moun poze souvan"]
+      },
+      {
+        "title": "Resous",
+        "links": ["Èd legal", "Òganis ofisyèl", "Sipò kominotè"]
+      },
+      {
+        "title": "Konsènan nou",
+        "links": ["Istwa nou", "Kontakte nou", "Konfidansyalite"]
+      }
+    ],
+    "legal": "Sit sa a bay enfòmasyon jeneral e li pa ranplase konsèy yon avoka oswa yon reprezantan otorize. Li pa detèmine si ou kalifye pou pwoteksyon refijye. Règ, pwosedi ak delè yo ka chanje."
+  }
+}

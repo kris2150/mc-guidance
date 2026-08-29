@@ -1,0 +1,27 @@
+{% comment %}
+  Site-wide disclaimer bar + FR/EN/HT switcher.
+  All three strings are rendered server-side and the inactive ones are hidden by
+  mc-lang.js, so the bar is correct without JS and never flashes the wrong text.
+{% endcomment %}
+
+{{ 'mc-lang.css' | asset_url | stylesheet_tag }}
+
+<div class="mc-topbar" data-mc-topbar>
+  <span class="mc-topbar__note" data-mc-note="fr">
+    Information générale seulement — ce site ne remplace pas un avis juridique.
+  </span>
+  <span class="mc-topbar__note" data-mc-note="en" hidden>
+    General information only — this site is not a substitute for legal advice.
+  </span>
+  <span class="mc-topbar__note" data-mc-note="ht" hidden>
+    Se enfòmasyon jeneral sèlman — sit sa a pa ranplase konsèy yon avoka.
+  </span>
+
+  <nav class="mc-topbar__langs" aria-label="Language">
+    <a class="mc-topbar__lang" data-mc-lang="fr" href="?lang=fr" lang="fr">FR</a>
+    <a class="mc-topbar__lang" data-mc-lang="en" href="?lang=en" lang="en">EN</a>
+    <a class="mc-topbar__lang" data-mc-lang="ht" href="?lang=ht" lang="ht">HT</a>
+  </nav>
+</div>
+
+<script src="{{ 'mc-lang.js' | asset_url }}" defer></script>

@@ -1,0 +1,51 @@
+/* Site-wide disclaimer bar + FR/EN/HT switcher. Loaded on every page via
+   snippets/mc-topbar.liquid, so it must not depend on any page's styles. */
+.mc-topbar {
+  box-sizing: border-box;
+  background: #111827;
+  color: rgba(255, 255, 255, 0.9);
+  font-family: inherit;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.mc-topbar__langs {
+  display: inline-flex;
+  gap: 2px;
+  flex: none;
+}
+
+.mc-topbar__lang {
+  color: rgba(255, 255, 255, 0.62);
+  text-decoration: none;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 999px;
+  min-height: 28px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.mc-topbar__lang.is-active {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.mc-topbar__lang:not(.is-active):hover {
+  color: #fff;
+}
+
+@media (max-width: 560px) {
+  .mc-topbar {
+    flex-direction: column;
+    gap: 6px;
+    padding: 8px 14px;
+  }
+}

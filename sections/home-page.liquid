@@ -1,0 +1,59 @@
+{{ 'home-page.css' | asset_url | stylesheet_tag }}
+
+<div
+  class="mc-home"
+  id="mc-home-{{ section.id }}"
+  data-default-lang="{{ section.settings.default_language }}"
+  data-src-fr="{{ 'home-content-fr.json' | asset_url }}"
+  data-src-en="{{ 'home-content-en.json' | asset_url }}"
+  data-src-ht="{{ 'home-content-ht.json' | asset_url }}"
+  data-url-home="{{ routes.root_url }}"
+  data-url-services="{{ section.settings.services_url | default: '/pages/services' }}"
+  data-url-contact="{{ section.settings.contact_url | default: '/pages/contact' }}"
+>
+  <noscript>
+    <p style="padding: 2rem; text-align: center;">
+      Cette page nécessite JavaScript. / This page requires JavaScript. / Paj sa a bezwen JavaScript.
+    </p>
+  </noscript>
+</div>
+
+<script src="{{ 'home-page.js' | asset_url }}" defer></script>
+
+{% schema %}
+{
+  "name": "Home page",
+  "settings": [
+    {
+      "type": "paragraph",
+      "content": "Content is edited in the JSON files: assets/home-content-fr.json, -en.json and -ht.json. The language shown follows the ?lang= URL parameter (fr, en or ht)."
+    },
+    {
+      "type": "select",
+      "id": "default_language",
+      "label": "Default language",
+      "options": [
+        { "value": "fr", "label": "Français" },
+        { "value": "en", "label": "English" },
+        { "value": "ht", "label": "Kreyòl" }
+      ],
+      "default": "fr"
+    },
+    {
+      "type": "url",
+      "id": "services_url",
+      "label": "Services page"
+    },
+    {
+      "type": "url",
+      "id": "contact_url",
+      "label": "Contact page"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Home page"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "code": "fr",
+    "langName": "Français",
+    "siteName": "MC Guidance",
+    "pageTitle": "Des informations claires pour chaque étape du parcours | MC Guidance",
+    "pageDescription": "Comprenez le processus de demande d'asile au Canada, préparez-vous aux étapes importantes et découvrez les ressources qui peuvent vous accompagner."
+  },
+  "topbar": "Information générale seulement — ce site ne remplace pas un avis juridique.",
+  "nav": {
+    "home": "Accueil",
+    "journey": "Votre parcours",
+    "services": "Services",
+    "resources": "Ressources",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Information • Préparation • Ressources",
+      "title": "Des informations claires pour chaque étape du parcours.",
+      "intro": "Comprenez le processus de demande d'asile au Canada, préparez-vous aux étapes importantes et découvrez les ressources qui peuvent vous accompagner.",
+      "ctaPrimary": "Explorer nos services",
+      "ctaSecondary": "Comprendre le parcours",
+      "trust": "Une information organisée, respectueuse et facile à comprendre.",
+      "imageLabel": "IMAGE PRINCIPALE",
+      "imageNote": "Portrait humain, accueillant et digne"
+    },
+    "intro": {
+      "title": "Le processus peut sembler difficile à comprendre.",
+      "body": "Une demande d'asile peut comporter des documents inconnus, des échéances importantes et plusieurs organismes. Nous rassemblons l'information par étape afin de vous aider à comprendre ce qui peut arriver et à mieux préparer la suite."
+    },
+    "journey": {
+      "eyebrow": "Le parcours en un coup d'œil",
+      "title": "Avancez une étape à la fois",
+      "intro": "Chaque parcours est différent, mais certaines grandes étapes peuvent vous aider à vous situer et à comprendre ce qui vient ensuite.",
+      "steps": [
+        {
+          "title": "Comprendre vos options",
+          "description": "Découvrir ce qu'implique une demande et où trouver une information fiable."
+        },
+        {
+          "title": "Préparer vos informations",
+          "description": "Organiser vos documents, vos dates importantes et votre histoire."
+        },
+        {
+          "title": "Commencer la demande",
+          "description": "Comprendre les documents, les instructions et les organismes concernés."
+        },
+        {
+          "title": "Préparer l'audience",
+          "description": "Se renseigner sur les preuves, la représentation et le déroulement."
+        },
+        {
+          "title": "Après la décision",
+          "description": "Explorer les prochaines démarches et les ressources d'installation."
+        }
+      ],
+      "cta": "Voir le parcours complet"
+    },
+    "services": {
+      "eyebrow": "Comment nous pouvons vous aider",
+      "title": "Des services organisés autour de vos besoins",
+      "intro": "Accédez directement aux informations et ressources les plus utiles pendant le parcours de demande d'asile.",
+      "cards": [
+        {
+          "icon": "◇",
+          "title": "Comprendre le processus",
+          "description": "Une vue d'ensemble claire des étapes, des organismes impliqués et des termes importants.",
+          "cta": "En savoir plus"
+        },
+        {
+          "icon": "▤",
+          "title": "Se préparer",
+          "description": "Des conseils généraux pour organiser vos documents, vos informations et vos dates importantes.",
+          "cta": "En savoir plus"
+        },
+        {
+          "icon": "⌂",
+          "title": "Trouver des ressources",
+          "description": "Des liens vers l'aide juridique autorisée, les organismes publics et le soutien communautaire.",
+          "cta": "En savoir plus"
+        }
+      ],
+      "cta": "Explorer tous les services"
+    },
+    "story": {
+      "eyebrow": "Une approche humaine",
+      "title": "Créé avec l'expérience vécue en tête",
+      "body": "Cette plateforme est inspirée par les difficultés que rencontrent les personnes qui essaient de comprendre un processus nouveau et complexe. Notre objectif est de rendre l'information plus claire, plus respectueuse et plus facile à parcourir.",
+      "qualities": ["Langage simple", "Information par étape", "Ressources vérifiées"],
+      "cta": "Découvrir notre histoire",
+      "imageLabel": "IMAGE HUMAINE",
+      "imageNote": "Fondateur, équipe ou moment d'accompagnement"
+    },
+    "closing": {
+      "title": "Vous n'avez pas besoin de tout comprendre aujourd'hui.",
+      "body": "Commencez par explorer l'information qui correspond le mieux à votre situation actuelle.",
+      "cta": "Explorer nos services"
+    }
+  },
+  "footer": {
+    "tagline": "Une information générale et accessible pour mieux comprendre le parcours de demande d'asile au Canada.",
+    "columns": [
+      {
+        "title": "Découvrir",
+        "links": ["Votre parcours", "Nos services", "Questions fréquentes"]
+      },
+      {
+        "title": "Ressources",
+        "links": ["Aide juridique", "Organismes officiels", "Soutien communautaire"]
+      },
+      {
+        "title": "À propos",
+        "links": ["Notre histoire", "Nous contacter", "Confidentialité"]
+      }
+    ],
+    "legal": "Ce site fournit de l'information générale et ne remplace pas les conseils d'un avocat ou d'un représentant autorisé. Il ne détermine pas l'admissibilité à la protection des réfugiés. Les règles, procédures et délais peuvent changer."
+  }
+}

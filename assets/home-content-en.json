@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "code": "en",
+    "langName": "English",
+    "siteName": "MC Guidance",
+    "pageTitle": "Clear information for every step of the journey | MC Guidance",
+    "pageDescription": "Understand the refugee claim process in Canada, prepare for the important steps, and find the resources that can support you."
+  },
+  "topbar": "General information only — this site is not a substitute for legal advice.",
+  "nav": {
+    "home": "Home",
+    "journey": "Your journey",
+    "services": "Services",
+    "resources": "Resources",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Information • Preparation • Resources",
+      "title": "Clear information for every step of the journey.",
+      "intro": "Understand the refugee claim process in Canada, prepare for the important steps, and find the resources that can support you.",
+      "ctaPrimary": "Explore our services",
+      "ctaSecondary": "Understand the journey",
+      "trust": "Information that is organized, respectful and easy to understand.",
+      "imageLabel": "MAIN IMAGE",
+      "imageNote": "A human portrait — welcoming and dignified"
+    },
+    "intro": {
+      "title": "The process can be hard to make sense of.",
+      "body": "A refugee claim can involve unfamiliar documents, important deadlines and several different organizations. We bring the information together step by step, to help you understand what may happen and prepare for what comes next."
+    },
+    "journey": {
+      "eyebrow": "The journey at a glance",
+      "title": "Move forward one step at a time",
+      "intro": "Every journey is different, but a few broad steps can help you find where you are and understand what comes next.",
+      "steps": [
+        {
+          "title": "Understand your options",
+          "description": "Learn what a claim involves and where to find reliable information."
+        },
+        {
+          "title": "Prepare your information",
+          "description": "Organize your documents, your important dates and your story."
+        },
+        {
+          "title": "Start the claim",
+          "description": "Understand the forms, the instructions and the organizations involved."
+        },
+        {
+          "title": "Prepare for the hearing",
+          "description": "Learn about evidence, representation and how the hearing works."
+        },
+        {
+          "title": "After the decision",
+          "description": "Explore the next steps and the resources for settling in."
+        }
+      ],
+      "cta": "See the full journey"
+    },
+    "services": {
+      "eyebrow": "How we can help",
+      "title": "Services organized around your needs",
+      "intro": "Go straight to the information and resources that are most useful during the refugee claim journey.",
+      "cards": [
+        {
+          "icon": "◇",
+          "title": "Understand the process",
+          "description": "A clear overview of the steps, the organizations involved and the terms that matter.",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "▤",
+          "title": "Get prepared",
+          "description": "General guidance for organizing your documents, your information and your important dates.",
+          "cta": "Learn more"
+        },
+        {
+          "icon": "⌂",
+          "title": "Find resources",
+          "description": "Links to authorized legal help, public bodies and community support.",
+          "cta": "Learn more"
+        }
+      ],
+      "cta": "Explore all services"
+    },
+    "story": {
+      "eyebrow": "A human approach",
+      "title": "Built with lived experience in mind",
+      "body": "This platform is shaped by the difficulties people face when trying to understand a process that is new and complex. Our goal is to make the information clearer, more respectful and easier to navigate.",
+      "qualities": ["Plain language", "Step by step", "Verified resources"],
+      "cta": "Read our story",
+      "imageLabel": "HUMAN IMAGE",
+      "imageNote": "Founder, team or a moment of support"
+    },
+    "closing": {
+      "title": "You don't need to understand everything today.",
+      "body": "Start by exploring the information that best matches where you are right now.",
+      "cta": "Explore our services"
+    }
+  },
+  "footer": {
+    "tagline": "General, accessible information to help you better understand the refugee claim journey in Canada.",
+    "columns": [
+      {
+        "title": "Discover",
+        "links": ["Your journey", "Our services", "Frequently asked questions"]
+      },
+      {
+        "title": "Resources",
+        "links": ["Legal aid", "Official organizations", "Community support"]
+      },
+      {
+        "title": "About",
+        "links": ["Our story", "Contact us", "Privacy"]
+      }
+    ],
+    "legal": "This site provides general information and is not a substitute for advice from a lawyer or an authorized representative. It does not determine eligibility for refugee protection. Rules, procedures and timelines may change."
+  }
+}
