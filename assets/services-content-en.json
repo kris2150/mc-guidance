@@ -17,7 +17,7 @@
     "intro": "An 11-step journey, from the first reflection to settling in Canada. Find the step you are at today to receive general guidance adapted to your situation.",
     "centralQuestionLabel": "The central question",
     "centralQuestion": "What step are you at today?",
-    "centralQuestionNote": "From there, we can place you in the right part of the timeline and give you general guidance adapted to your step.",
+    "centralQuestionNote": "From there, I can place you in the right part of the timeline and give you general guidance adapted to your step.",
     "sidebarTitle": "The 11 steps",
     "stepLabel": "Step",
     "keyQuestionsLabel": "Key questions",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Asylum claim started",
-        "description": "The person has already started their claim. They may have received instructions, a file number, an appointment, or a request for documents. At this step, we need to identify exactly what they have received and what is being asked next.",
+        "description": "The person has already started their claim. They may have received instructions, a file number, an appointment, or a request for documents. At this step, I need to identify exactly what they have received and what is being asked next.",
         "questions": [
           "What documents or instructions have you received from the Canadian authorities?"
         ],

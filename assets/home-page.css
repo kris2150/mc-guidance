@@ -104,11 +104,13 @@
 /* ---------- Hero ---------- */
 .mc-home__hero { background: linear-gradient(120deg, #f7f8fd 0%, var(--mc-accent-soft) 100%); }
 
+/* padding-block only — a `padding` shorthand here would override the
+   horizontal padding this element also inherits from .mc-home__container. */
 .mc-home__hero-grid {
   display: grid;
   gap: 36px;
   align-items: center;
-  padding: 56px 0;
+  padding-block: 56px;
 }
 
 .mc-home__title {
@@ -315,7 +317,7 @@
   .mc-home__hero-grid {
     grid-template-columns: 1.04fr 0.96fr;
     gap: 64px;
-    padding: 76px 0;
+    padding-block: 76px;
     min-height: 600px;
   }
 

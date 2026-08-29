@@ -17,7 +17,7 @@
     "intro": "Yon pakou an 11 etap, depi premye refleksyon an rive jouk nan enstalasyon nan Kanada. Jwenn etap kote ou ye jodi a pou ou resevwa yon oryantasyon jeneral ki adapte ak sitiyasyon ou.",
     "centralQuestionLabel": "Kesyon santral la",
     "centralQuestion": "Nan ki etap ou ye jodi a?",
-    "centralQuestionNote": "Apre sa, nou ka mete ou nan bon pati nan liy tan an epi ba ou yon oryantasyon jeneral ki adapte ak etap ou.",
+    "centralQuestionNote": "Apre sa, mwen ka mete ou nan bon pati nan liy tan an epi ba ou yon oryantasyon jeneral ki adapte ak etap ou.",
     "sidebarTitle": "11 etap yo",
     "stepLabel": "Etap",
     "keyQuestionsLabel": "Kesyon prensipal yo",
@@ -90,7 +90,7 @@
       },
       {
         "title": "Demann azil la kòmanse",
-        "description": "Moun nan deja kòmanse demann li. Li ka resevwa enstriksyon, yon nimewo dosye, yon randevou, oswa yon demann dokiman. Nan etap sa a, fòk nou idantifye egzakteman kisa li resevwa ak kisa yo mande apre.",
+        "description": "Moun nan deja kòmanse demann li. Li ka resevwa enstriksyon, yon nimewo dosye, yon randevou, oswa yon demann dokiman. Nan etap sa a, fòk mwen idantifye egzakteman kisa li resevwa ak kisa yo mande apre.",
         "questions": [
           "Ki dokiman oswa enstriksyon ou resevwa nan men otorite kanadyen yo?"
         ],

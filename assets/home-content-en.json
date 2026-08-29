@@ -20,7 +20,7 @@
       "eyebrow": "Information • Preparation • Resources",
       "title": "Clear information for every step of the journey.",
       "intro": "Understand the refugee claim process in Canada, prepare for the important steps, and find the resources that can support you.",
-      "ctaPrimary": "Explore our services",
+      "ctaPrimary": "Explore my services",
       "ctaSecondary": "Understand the journey",
       "trust": "Information that is organized, respectful and easy to understand.",
       "imageLabel": "MAIN IMAGE",
@@ -28,7 +28,7 @@
     },
     "intro": {
       "title": "The process can be hard to make sense of.",
-      "body": "A refugee claim can involve unfamiliar documents, important deadlines and several different organizations. We bring the information together step by step, to help you understand what may happen and prepare for what comes next."
+      "body": "A refugee claim can involve unfamiliar documents, important deadlines and several different organizations. I bring the information together step by step, to help you understand what may happen and prepare for what comes next."
     },
     "journey": {
       "eyebrow": "The journey at a glance",
@@ -59,7 +59,7 @@
       "cta": "See the full journey"
     },
     "services": {
-      "eyebrow": "How we can help",
+      "eyebrow": "How I can help",
       "title": "Services organized around your needs",
       "intro": "Go straight to the information and resources that are most useful during the refugee claim journey.",
       "cards": [
@@ -87,16 +87,16 @@
     "story": {
       "eyebrow": "A human approach",
       "title": "Built with lived experience in mind",
-      "body": "This platform is shaped by the difficulties people face when trying to understand a process that is new and complex. Our goal is to make the information clearer, more respectful and easier to navigate.",
+      "body": "This platform is shaped by the difficulties people face when trying to understand a process that is new and complex. My goal is to make the information clearer, more respectful and easier to navigate.",
       "qualities": ["Plain language", "Step by step", "Verified resources"],
-      "cta": "Read our story",
+      "cta": "Read my story",
       "imageLabel": "HUMAN IMAGE",
-      "imageNote": "Founder, team or a moment of support"
+      "imageNote": "Portrait or a moment of support"
     },
     "closing": {
       "title": "You don't need to understand everything today.",
       "body": "Start by exploring the information that best matches where you are right now.",
-      "cta": "Explore our services"
+      "cta": "Explore my services"
     }
   },
   "footer": {
@@ -104,7 +104,7 @@
     "columns": [
       {
         "title": "Discover",
-        "links": ["Your journey", "Our services", "Frequently asked questions"]
+        "links": ["Your journey", "My services", "Frequently asked questions"]
       },
       {
         "title": "Resources",
@@ -112,7 +112,7 @@
       },
       {
         "title": "About",
-        "links": ["Our story", "Contact us", "Privacy"]
+        "links": ["My story", "Contact me", "Privacy"]
       }
     ],
     "legal": "This site provides general information and is not a substitute for advice from a lawyer or an authorized representative. It does not determine eligibility for refugee protection. Rules, procedures and timelines may change."

@@ -20,7 +20,7 @@
       "eyebrow": "Information • Préparation • Ressources",
       "title": "Des informations claires pour chaque étape du parcours.",
       "intro": "Comprenez le processus de demande d'asile au Canada, préparez-vous aux étapes importantes et découvrez les ressources qui peuvent vous accompagner.",
-      "ctaPrimary": "Explorer nos services",
+      "ctaPrimary": "Explorer mes services",
       "ctaSecondary": "Comprendre le parcours",
       "trust": "Une information organisée, respectueuse et facile à comprendre.",
       "imageLabel": "IMAGE PRINCIPALE",
@@ -28,7 +28,7 @@
     },
     "intro": {
       "title": "Le processus peut sembler difficile à comprendre.",
-      "body": "Une demande d'asile peut comporter des documents inconnus, des échéances importantes et plusieurs organismes. Nous rassemblons l'information par étape afin de vous aider à comprendre ce qui peut arriver et à mieux préparer la suite."
+      "body": "Une demande d'asile peut comporter des documents inconnus, des échéances importantes et plusieurs organismes. Je rassemble l'information par étape afin de vous aider à comprendre ce qui peut arriver et à mieux préparer la suite."
     },
     "journey": {
       "eyebrow": "Le parcours en un coup d'œil",
@@ -59,7 +59,7 @@
       "cta": "Voir le parcours complet"
     },
     "services": {
-      "eyebrow": "Comment nous pouvons vous aider",
+      "eyebrow": "Comment je peux vous aider",
       "title": "Des services organisés autour de vos besoins",
       "intro": "Accédez directement aux informations et ressources les plus utiles pendant le parcours de demande d'asile.",
       "cards": [
@@ -87,16 +87,16 @@
     "story": {
       "eyebrow": "Une approche humaine",
       "title": "Créé avec l'expérience vécue en tête",
-      "body": "Cette plateforme est inspirée par les difficultés que rencontrent les personnes qui essaient de comprendre un processus nouveau et complexe. Notre objectif est de rendre l'information plus claire, plus respectueuse et plus facile à parcourir.",
+      "body": "Cette plateforme est inspirée par les difficultés que rencontrent les personnes qui essaient de comprendre un processus nouveau et complexe. Mon objectif est de rendre l'information plus claire, plus respectueuse et plus facile à parcourir.",
       "qualities": ["Langage simple", "Information par étape", "Ressources vérifiées"],
-      "cta": "Découvrir notre histoire",
+      "cta": "Découvrir mon histoire",
       "imageLabel": "IMAGE HUMAINE",
-      "imageNote": "Fondateur, équipe ou moment d'accompagnement"
+      "imageNote": "Portrait ou moment d'accompagnement"
     },
     "closing": {
       "title": "Vous n'avez pas besoin de tout comprendre aujourd'hui.",
       "body": "Commencez par explorer l'information qui correspond le mieux à votre situation actuelle.",
-      "cta": "Explorer nos services"
+      "cta": "Explorer mes services"
     }
   },
   "footer": {
@@ -104,7 +104,7 @@
     "columns": [
       {
         "title": "Découvrir",
-        "links": ["Votre parcours", "Nos services", "Questions fréquentes"]
+        "links": ["Votre parcours", "Mes services", "Questions fréquentes"]
       },
       {
         "title": "Ressources",
@@ -112,7 +112,7 @@
       },
       {
         "title": "À propos",
-        "links": ["Notre histoire", "Nous contacter", "Confidentialité"]
+        "links": ["Mon histoire", "Me contacter", "Confidentialité"]
       }
     ],
     "legal": "Ce site fournit de l'information générale et ne remplace pas les conseils d'un avocat ou d'un représentant autorisé. Il ne détermine pas l'admissibilité à la protection des réfugiés. Les règles, procédures et délais peuvent changer."

@@ -12,7 +12,7 @@
     "journey": "Chemen ou",
     "services": "Sèvis",
     "resources": "Resous",
-    "about": "Konsènan nou",
+    "about": "Konsènan mwen",
     "contact": "Kontak"
   },
   "home": {
@@ -20,7 +20,7 @@
       "eyebrow": "Enfòmasyon • Preparasyon • Resous",
       "title": "Enfòmasyon klè pou chak etap nan chemen an.",
       "intro": "Konprann pwosesis demann azil nan Kanada, prepare w pou etap enpòtan yo, epi jwenn resous ki ka ede w.",
-      "ctaPrimary": "Eksplore sèvis nou yo",
+      "ctaPrimary": "Eksplore sèvis mwen yo",
       "ctaSecondary": "Konprann chemen an",
       "trust": "Enfòmasyon ki byen òganize, ak respè, epi fasil pou konprann.",
       "imageLabel": "IMAJ PRENSIPAL",
@@ -28,7 +28,7 @@
     },
     "intro": {
       "title": "Pwosesis la ka parèt difisil pou konprann.",
-      "body": "Yon demann azil ka gen dokiman ou pa konnen, dat limit enpòtan, ak plizyè òganizasyon. Nou rasanble enfòmasyon an etap pa etap pou ede w konprann sa ki ka rive epi pi byen prepare pwochen etap la."
+      "body": "Yon demann azil ka gen dokiman ou pa konnen, dat limit enpòtan, ak plizyè òganizasyon. Mwen rasanble enfòmasyon an etap pa etap pou ede w konprann sa ki ka rive epi pi byen prepare pwochen etap la."
     },
     "journey": {
       "eyebrow": "Chemen an an rezime",
@@ -59,7 +59,7 @@
       "cta": "Wè tout chemen an"
     },
     "services": {
-      "eyebrow": "Kijan nou ka ede w",
+      "eyebrow": "Kijan mwen ka ede w",
       "title": "Sèvis ki òganize otou bezwen ou",
       "intro": "Ale dirèkteman nan enfòmasyon ak resous ki pi itil pandan chemen demann azil la.",
       "cards": [
@@ -87,16 +87,16 @@
     "story": {
       "eyebrow": "Yon apwòch imen",
       "title": "Kreye an panse ak eksperyans moun yo viv",
-      "body": "Platfòm sa a enspire pa difikilte moun rankontre lè y ap eseye konprann yon pwosesis ki nouvo e konplike. Objektif nou se rann enfòmasyon an pi klè, pi respektye epi pi fasil pou navige.",
+      "body": "Platfòm sa a enspire pa difikilte moun rankontre lè y ap eseye konprann yon pwosesis ki nouvo e konplike. Objektif mwen se rann enfòmasyon an pi klè, pi respektye epi pi fasil pou navige.",
       "qualities": ["Langaj senp", "Etap pa etap", "Resous verifye"],
-      "cta": "Dekouvri istwa nou",
+      "cta": "Dekouvri istwa mwen",
       "imageLabel": "IMAJ IMEN",
-      "imageNote": "Fondatè, ekip oswa yon moman akonpayman"
+      "imageNote": "Pòtrè oswa yon moman akonpayman"
     },
     "closing": {
       "title": "Ou pa bezwen konprann tout bagay jodi a.",
       "body": "Kòmanse pa eksplore enfòmasyon ki koresponn pi byen ak sitiyasyon w kounye a.",
-      "cta": "Eksplore sèvis nou yo"
+      "cta": "Eksplore sèvis mwen yo"
     }
   },
   "footer": {
@@ -104,15 +104,15 @@
     "columns": [
       {
         "title": "Dekouvri",
-        "links": ["Chemen ou", "Sèvis nou yo", "Kesyon moun poze souvan"]
+        "links": ["Chemen ou", "Sèvis mwen yo", "Kesyon moun poze souvan"]
       },
       {
         "title": "Resous",
         "links": ["Èd legal", "Òganis ofisyèl", "Sipò kominotè"]
       },
       {
-        "title": "Konsènan nou",
-        "links": ["Istwa nou", "Kontakte nou", "Konfidansyalite"]
+        "title": "Konsènan mwen",
+        "links": ["Istwa mwen", "Kontakte m", "Konfidansyalite"]
       }
     ],
     "legal": "Sit sa a bay enfòmasyon jeneral e li pa ranplase konsèy yon avoka oswa yon reprezantan otorize. Li pa detèmine si ou kalifye pou pwoteksyon refijye. Règ, pwosedi ak delè yo ka chanje."
